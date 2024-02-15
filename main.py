@@ -18,4 +18,4 @@ if phonenumbers.is_possible_number(parsed_number):
     else:
         print("NPA 200 not used")
 else:
-    print("Invalid number")
+    print("invalid number")
