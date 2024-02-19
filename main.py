@@ -60,7 +60,7 @@ phone_timezone.grid(column=2, row=7)
 error = Label(text="")
 error.grid(column=2, row=4)
 
-button = Button(text="Locate", command=find_user)
+button = Button(text="Locate Number", command=find_user)
 button.grid(column=2, row=2)
 
 window.mainloop()
